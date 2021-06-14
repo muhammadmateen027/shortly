@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe763854-bf80-477e-bc19-11aad3a5eb9a" name="Default Changelist" comment="Update view" />
+    <list default="true" id="fe763854-bf80-477e-bc19-11aad3a5eb9a" name="Default Changelist" comment="Update view">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +59,8 @@
       <workItem from="1622554675191" duration="12877000" />
       <workItem from="1622713568305" duration="645000" />
       <workItem from="1622715736116" duration="295000" />
-      <workItem from="1623629326425" duration="498000" />
+      <workItem from="1623629326425" duration="1023000" />
+      <workItem from="1623631440783" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Design main page">
       <created>1622559302455</created>
