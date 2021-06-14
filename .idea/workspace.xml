@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe763854-bf80-477e-bc19-11aad3a5eb9a" name="Default Changelist" comment="Update view" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="JupyterTrust" id="ba624408-bfdf-4e2e-aa2a-64e4e925d060" />
+  <component name="ProjectId" id="1tLiGM8EV18FCK4UOdZiJvWVrUX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe763854-bf80-477e-bc19-11aad3a5eb9a" name="Default Changelist" comment="" />
+      <created>1622554673871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622554673871</updated>
+      <workItem from="1622554675191" duration="12877000" />
+      <workItem from="1622713568305" duration="645000" />
+      <workItem from="1622715736116" duration="295000" />
+      <workItem from="1623629326425" duration="498000" />
+    </task>
+    <task id="LOCAL-00001" summary="Design main page">
+      <created>1622559302455</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622559302455</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add environment variable and add network call">
+      <created>1622563624430</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1622563624430</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Shorten url from network">
+      <created>1622566652655</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622566652655</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add on boarding page">
+      <created>1622569543776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622569543777</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update message">
+      <created>1622570396644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622570396644</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Store data locally and retrieve to show in the list">
+      <created>1622575979680</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622575979681</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Delete item from list">
+      <created>1622577727906</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622577727906</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Copy text on button click">
+      <created>1622578361514</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622578361514</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Give margin in the end of button">
+      <created>1622578489496</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622578489496</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update view">
+      <created>1622579178541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622579178542</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update readme file">
+      <created>1622715798749</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622715798749</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Design main page" />
+    <MESSAGE value="Add environment variable and add network call" />
+    <MESSAGE value="Shorten url from network" />
+    <MESSAGE value="Add on boarding page" />
+    <MESSAGE value="Update message" />
+    <MESSAGE value="Store data locally and retrieve to show in the list" />
+    <MESSAGE value="Delete item from list" />
+    <MESSAGE value="Copy text on button click" />
+    <MESSAGE value="Give margin in the end of button" />
+    <MESSAGE value="Update view" />
+    <MESSAGE value="Update readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update readme file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="36" y="93" key="SettingsEditor" timestamp="1622556665783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="36" y="93" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1622556665783" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2" timestamp="1622579180179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1622579180179" />
+    <state x="319" y="64" key="new project wizard" timestamp="1622555504129">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="319" y="64" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1622555504129" />
+  </component>
+</project>

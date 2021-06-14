@@ -2,14 +2,13 @@
 
 Using Dart and Flutter, I build a URL shortening mobile app, integrated with the [shrtcode API](https://app.shrtco.de/docs)
 
-![Landing Screen](https://github.com/muhammadmateen027/shortly/design/master/1_start_screen.png?raw=true)
-![Landing page](https://github.com/muhammadmateen027/shortly/design/master/3.1_main_screen_empty.png?raw=true)
-![History](https://github.com/muhammadmateen027/shortly/design/master/3.3_main_screen_link_history.png?raw=true)
+![Landing Screen](https://user-images.githubusercontent.com/24449076/121826341-d224b780-cce9-11eb-8cc7-21af7f49b36b.png)
+![Landing page](https://user-images.githubusercontent.com/24449076/121826375-f7b1c100-cce9-11eb-8ecf-0561d70b7522.png)
+![History](https://user-images.githubusercontent.com/24449076/121826440-30ea3100-ccea-11eb-8379-97239a983c6f.png)
 
 Reference for design:
 
-- See the designs in Figma here: https://bit.ly/330dJxN
-- See the designs as a video here: https://bit.ly/3eEYboF
+- See the designs in Figma here: https://www.figma.com/file/8VvRKh5ui1aGhnqciOIDqN/Flutter-Shorty-Design
 
 #### Project code location
 
